@@ -60,6 +60,28 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SUITS -  HOMENS DE TERNO 8° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pSd2fsv4chUymXUCglaYfpIIHXy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SUITS -  HOMENS DE TERNO 9° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=$nome=</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=</link>
