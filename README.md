@@ -50,3 +50,28 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Sexta temporada completa e dublada da série Suits (Homens de Terno). Mike Ross (Patrick J. Adams) é um garoto que abandonou a faculdade de direito mas, brilhante como é, consegue uma entrevista com o respeitado Harvey Specter (Gabriel Macht), um dos melhores advogados de Manhattan. Quando percebe o talento nato e a memória fotográfica do garoto, Harvey o contrata e, juntos, eles formam uma dupla imbatível. Mesmo sendo um gênio, Mike ainda tem muito a aprender sobre o Direito. E mesmo sendo um advogado tão competende, Harvey irá aprender com sua nova dupla a ver seus clientes de outra maneira.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] SUITS -  HOMENS DE TERNO 7° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a468079887f9cdc4b842b89d9b3c0e99902854d4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pSd2fsv4chUymXUCglaYfpIIHXy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sétima temporada completa e dublada da série Suits (Homens de Terno). Mike Ross (Patrick J. Adams) é um garoto que abandonou a faculdade de direito mas, brilhante como é, consegue uma entrevista com o respeitado Harvey Specter (Gabriel Macht), um dos melhores advogados de Manhattan. Quando percebe o talento nato e a memória fotográfica do garoto, Harvey o contrata e, juntos, eles formam uma dupla imbatível. Mesmo sendo um gênio, Mike ainda tem muito a aprender sobre o Direito. E mesmo sendo um advogado tão competende, Harvey irá aprender com sua nova dupla a ver seus clientes de outra maneira.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SUITS -  HOMENS DE TERNO 9° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ycKV6hUPAouFtvSLr1pMZgcDHFn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A firma enfrenta incerteza após Robert Zane (Wendell Pierce) tomar a culpa para salvar Harvey (Gabriel Macht), que precisa lidar com a perda do mentor de Samantha (Katherine Heigl) e também com os seus sentimentos por Donna (Sarah Rafferty). Juntos, eles e seus companheiros tentarão salvar a reputação da firma enquanto eles tentam descobrir quem são exatamente e que tipos de advogados querem ser.</info>
+</item>
